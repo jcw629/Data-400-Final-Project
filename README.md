@@ -1,4 +1,4 @@
-# Data-400-Final-Project
+# Data-400-Final-Project     
 Retail investors face significant barriers in accessing effective portfolio management tools, which are often costly and designed for institutional users. This gap limits their ability to make informed financial decisions and navigate increasingly complex markets. To address this, we developed a free, accessible portfolio management tool tailored to the needs of individual investors. The platform integrates data aggregation, forecasting models, and interactive visualizations to support better understanding of portfolio performance and market trends. Visual components—including dashboards, charts, and comparative analytics—translate complex financial data into actionable insights. Early prototypes emphasize usability and clarity, aiming to enhance financial literacy and user confidence in decision-making. Evaluation will assess user engagement, accuracy of forecasts, and the tool’s impact on investment strategy development. By offering a cost-free alternative to expensive, institutionally designed platforms, this tool aims to democratize access to financial resources and empower retail investors with meaningful, data-driven insights.
 
 ![Dashboard](https://github.com/user-attachments/assets/6c6a9e1d-60c9-4489-82c0-3dffe90c7aa2)
@@ -22,3 +22,4 @@ Technologies:
 - Pandas: For data manipulation and analysis.
 
 Link: https://portfolio-analysis-tool-fnpuqigmxbsmnj6szbisaa.streamlit.app/Dashboard
+### By Justin Wong and Daulton Kendall
