@@ -9,7 +9,7 @@ This project aims to provide retail investors with a free alternative to expensi
 Built with Streamlit, this tool allows users to easily track their portfolio performance, evaluate their investments, and receive actionable insights.
 
 Features:
-- Real-time Data: Aggregates real-time stock data from Yahoo Finance using the yfinance API.
+- Data: Aggregates stock data from Yahoo Finance using the yfinance API, with a 1-day delay
 - Portfolio Tracking: Users can input their stock holdings and see how their portfolio performs over time.
 - Performance Metrics: Includes performance comparisons with major indices like the S&P 500.
 - Risk Assessment: Uses machine learning techniques to classify portfolio risk and help users align their investments with their goals.
